@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XFS", "XFS.vcproj", "{208DB7FB-B060-4E2F-B82F-E1ED3C632EBF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{208DB7FB-B060-4E2F-B82F-E1ED3C632EBF}.Debug.ActiveCfg = Debug|Win32
+		{208DB7FB-B060-4E2F-B82F-E1ED3C632EBF}.Debug.Build.0 = Debug|Win32
+		{208DB7FB-B060-4E2F-B82F-E1ED3C632EBF}.Release.ActiveCfg = Release|Win32
+		{208DB7FB-B060-4E2F-B82F-E1ED3C632EBF}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

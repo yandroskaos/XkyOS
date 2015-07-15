@@ -1,0 +1,1 @@
+@call MakeFile.bat Debug XFSA

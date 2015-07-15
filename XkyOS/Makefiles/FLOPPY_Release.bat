@@ -1,0 +1,1 @@
+@call MakeFile.bat Release XFSA

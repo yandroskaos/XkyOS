@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MessageBox", "MessageBox.vcproj", "{16E64A93-5346-410B-A3B5-C0D0CCC0EE37}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{16E64A93-5346-410B-A3B5-C0D0CCC0EE37}.Debug.ActiveCfg = Debug|Win32
+		{16E64A93-5346-410B-A3B5-C0D0CCC0EE37}.Debug.Build.0 = Debug|Win32
+		{16E64A93-5346-410B-A3B5-C0D0CCC0EE37}.Release.ActiveCfg = Release|Win32
+		{16E64A93-5346-410B-A3B5-C0D0CCC0EE37}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

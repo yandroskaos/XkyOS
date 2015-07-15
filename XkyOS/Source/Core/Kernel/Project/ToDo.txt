@@ -1,0 +1,7 @@
+TEMAS:
+
+- Arreglar el HEAP -> DONE (XX)NOT FIXED
+	
+- KERNEL_LOAD_ADDRESS (mirar en boot) y DriverEntry (typedef bool (*fDriverEntry())
+
+- PROCESSOR_DeleteExecution tiene un leak con CPU_FreeExecution y CPU_AllocExecution

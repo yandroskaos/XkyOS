@@ -1,0 +1,41 @@
+config.version = "8"
+virtualHW.version = "4"
+scsi0.present = "TRUE"
+memsize = "256"
+MemAllowAutoScaleDown = "FALSE"
+ide0:0.present = "TRUE"
+ide0:0.fileName = "xfsc.vmdk"
+ide1:0.present = "TRUE"
+ide1:0.fileName = "auto detect"
+ide1:0.deviceType = "cdrom-raw"
+floppy0.present = "TRUE"
+ethernet0.present = "TRUE"
+sound.present = "TRUE"
+sound.virtualDev = "es1371"
+sound.fileName = "-1"
+sound.autodetect = "TRUE"
+displayName = "XkyOS"
+guestOS = "other"
+nvram = "Other.nvram"
+
+ide1:0.autodetect = "TRUE"
+floppy0.fileType = "file"
+floppy0.fileName = "xfsa.dsk"
+
+svga.forceTraces = "TRUE"
+
+
+ide0:0.redo = ""
+ethernet0.addressType = "generated"
+uuid.location = "56 4d d9 0a 08 36 8d ca-e9 d0 bd 92 a6 da 36 d3"
+uuid.bios = "56 4d d9 0a 08 36 8d ca-e9 d0 bd 92 a6 da 36 d3"
+ethernet0.generatedAddress = "00:0c:29:da:36:d3"
+ethernet0.generatedAddressOffset = "0"
+
+tools.remindInstall = "TRUE"
+
+workingDir = "."
+
+checkpoint.vmState = ""
+
+floppy0.startConnected = "FALSE"
